@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ezequiel</h1>
-<h3 align="center">a game designer/dev with a love for graphic design</h3>
+<h3 align="center">a game designer/dev with a love for user experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quiellll&label=Profile%20views&color=084f10&style=flat" alt="quiellll" /> </p>
 
